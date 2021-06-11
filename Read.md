@@ -1,0 +1,5 @@
+- Download Eiffel Studio
+- Open the project.ecf file using Eiffel Studio
+- The .e files show the source code
+- To manually test: run the application class
+- To make use of the generated tests: Tools -> Generated Tests
